@@ -1,0 +1,16 @@
+{
+  "name": "yumeko",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node index.js"
+  },
+  "author": "Kartoux",
+  "license": "ISC",
+  "dependencies": {
+    "humanize-duration": "^3.25.1",
+    "moment": "^2.29.1",
+    "parse-duration": "^0.4.4"
+  }
+}
